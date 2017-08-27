@@ -26,9 +26,10 @@ h3 {
   text-align: center;
   font-weight: 300;
   font-size: 42px;
+  color: white;
 }
 
-.copy {
+.copyright {
   text-align: right;
   color: gray;
 }
